@@ -1,0 +1,8 @@
+name: Invite
+version: '${version}'
+main: org.plugin.Main
+api-version: '1.16'
+commands:
+  invite:
+    description: Generates an invite code
+    usage: /<command>
